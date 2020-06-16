@@ -8,9 +8,3 @@ eureka:
     hostname: localhost
     
     
-microservice:
-  product-service:
-    endpoints:
-      endpoint:
-        uri: http://PRODUCT-SERVICE/products
-  
